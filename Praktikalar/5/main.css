@@ -1,0 +1,14 @@
+.orta{
+    padding-left: 100px;
+}
+.popular{
+    width: 125px;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    top: 10px;
+    transform: rotate(38deg);
+    right: -25px;
+}
